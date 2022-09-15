@@ -9,5 +9,5 @@
 ## CS3A
 
 - [Assignments](https://github.com/CS-PCC/CS3A_Assignments)
-- [Classroom](https://github.com/stephengineer-CS3A-classroom)
+- [Classroom](https://github.com/stephengineer-CS300A-classroom)
 - [Setup Env](https://github.com/CS-PCC/CS3A_Setup)
