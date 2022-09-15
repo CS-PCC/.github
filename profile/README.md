@@ -4,7 +4,7 @@
 
 - [Assignments](https://github.com/CS-PCC/CS2_Assignments)
 - [Classroom](https://github.com/stephengineer-CS002-classroom)
-- [Setup Env](https://github.com/CS-PCC/CS002_Setup)
+- [Setup Env](https://github.com/CS-PCC/CS2_Setup)
 
 ## CS3A
 
