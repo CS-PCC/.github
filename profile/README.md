@@ -1,6 +1,6 @@
-# Welcome to Fundamentals of Computer Science
+# Learn C++ Programming
 
-## CS002
+## CS2
 
 - [Assignments](https://github.com/CS-PCC/CS2_Assignments)
 - [Classroom](https://github.com/stephengineer-CS002-classroom)
@@ -11,3 +11,8 @@
 - [Assignments](https://github.com/CS-PCC/CS3A_Assignments)
 - [Classroom](https://github.com/stephengineer-CS003A-classroom)
 - [Setup Env](https://github.com/CS-PCC/CS3A_Setup)
+
+## CS8
+- [Assignments]()
+- [Classroom]()
+- [Setup Env]()
