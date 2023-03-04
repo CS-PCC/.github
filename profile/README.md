@@ -22,4 +22,4 @@
 
 ## Notes
 
-- [TA Notes](https://github.com/CS-PCC/TA_Notes): Help you success in the class
+- [TA Notes](https://github.com/CS-PCC/TA_Notes)
