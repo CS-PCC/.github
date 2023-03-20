@@ -17,3 +17,6 @@
   - CS 003A
 - Spring 2023
   - CS 008
+- Summer 2023
+  - CS 008
+  
